@@ -7,5 +7,6 @@ Sobre mim :
 - 🎖️ Meu objetivo pessoal é correr uma meia maratona ...
 - 💼 Eu trabalho atualmente como estagiaria na aréa de Suporte técnico..
 - 💬 Me faça uma pergunta, vou adorar te responder!...
+- Para me encontrar, esse é meu <a href="https://www.linkedin.com/in/ana-nogueira-847a711b5"> linkedIn </a>
 
 
