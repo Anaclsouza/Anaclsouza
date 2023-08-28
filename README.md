@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Ana Clara Souza.  👋
 
-
-**Anaclsouza/Anaclsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sobre mim :
 
 - 🎓 Eu sou estudante de Ciência da Computação na Instituição Newton Paiva...
