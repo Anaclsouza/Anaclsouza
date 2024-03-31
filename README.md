@@ -23,16 +23,16 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾.
 <img height=30 width= 40 align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
+<img height=30 width = 40 aliggn = "center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height=30 width = 40 aliggn = "center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height=30 width = 40 aliggn = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img height=30 width = 40 aliggn = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img height=30 width = 40 aliggn = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+
           
 </div>
 
 
-## 
-![image](https://github.com/Anaclsouza/Anaclsouza/assets/143450782/98631180-4906-4ef2-b6bd-f2e411cbc2c3)
-![image](https://github.com/Anaclsouza/Anaclsouza/assets/143450782/1945fc0e-12ab-41a2-886c-746c6b9d7d33)
-![image](https://github.com/Anaclsouza/Anaclsouza/assets/143450782/d7110713-a526-42f6-a3dc-4c289604887a)
-![image](https://github.com/Anaclsouza/Anaclsouza/assets/143450782/c7a1e7ca-4c5d-49f4-99df-1e6c15f54f9b)
  
           
 
