@@ -5,7 +5,7 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾.
 
 - 🎓 Eu sou estudante de Ciência da Computação na Instituição Newton Paiva.
 - 💻 Sou uma entusista da tecnologia e busco sempre estar praticando.
-- <a href=  "https://icons8.com.br/icon/12456/google-web-search"> Nesse lugar você encontra uma estudante desbravando linguagens como : JavaScript e Java. :)
+- Nesse lugar você encontra uma estudante desbravando linguagens como : JavaScript e Java. :)
 - 💼 Eu trabalho atualmente no Inter.
 - 💬 Me faça uma pergunta, vou adorar te responder!
 - Para me encontrar, esse é meu <a href="https://www.linkedin.com/in/ana-nogueira-847a711b5"> linkedIn </a>
@@ -29,7 +29,8 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾.
 ![image](https://github.com/Anaclsouza/Anaclsouza/assets/143450782/1945fc0e-12ab-41a2-886c-746c6b9d7d33)
 ![image](https://github.com/Anaclsouza/Anaclsouza/assets/143450782/d7110713-a526-42f6-a3dc-4c289604887a)
 ![image](https://github.com/Anaclsouza/Anaclsouza/assets/143450782/c7a1e7ca-4c5d-49f4-99df-1e6c15f54f9b)
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 
 
 
