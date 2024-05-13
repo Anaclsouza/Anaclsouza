@@ -1,11 +1,6 @@
 
 
 
-
-
------
-
-
 <div>
 <img align="center" alt="GIF" src="https://github.com/Anaclsouza/Anaclsouza/blob/main/img/6M8G.gif" >
 </div>
@@ -16,7 +11,6 @@
 ##
 
  
-## Sobre mim :
 
 ### Olá!👋,
 Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾. 
