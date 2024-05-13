@@ -43,6 +43,14 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾.
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
+
+ 
+## Sobre mim :
+
+### Olá!👋,
+Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾. 
+##
+ 
 ## Sobre mim :
 
 - 🎓 Eu sou estudante de Ciência da Computação na Instituição Newton Paiva.
