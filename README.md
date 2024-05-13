@@ -3,7 +3,7 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾.
 ##
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Anaclsouza/Anaclsouza/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/Anaclsouza/Anaclsouza/blob/main/img/header.png"/>
 </div>
 
 -----
