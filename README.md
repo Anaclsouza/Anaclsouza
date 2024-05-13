@@ -31,7 +31,8 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾.
 <a href="https://github.com/Anaclsouza/convoychat">
   <img padding=50 height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anaclsouza&layout=compact&langs_count=8&card_width=320" />            
 
-  ## Linguagens de Programação/ Ferramentas : 
+ ##
+ ## Linguagem de programação/Ferramentas :
 </a>
 <div style ="display: inline_block " align="center">
 <img height=30 width= 40 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>          
