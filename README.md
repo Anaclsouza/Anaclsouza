@@ -4,10 +4,11 @@
 
 
 -----
-<div>
-<img align="center" alt="Header" src="https://github.com/Anaclsouza/Anaclsouza/blob/main/img/github-header-image.png"/>
-</div>
 
+
+<div>
+<img align="center" alt="GIF" src="https://github.com/Anaclsouza/Anaclsouza/blob/main/img/6M8G.gif" >
+</div>
 
 
 
