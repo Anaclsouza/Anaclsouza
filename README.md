@@ -28,6 +28,7 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾.
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img height=30 width = 40 align = "center" src="https://icons8.com.br/icon/44442/golang">
 
           
 </div>
