@@ -5,7 +5,7 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e sou aspirante a Dev Junior 👾.
 
 - 🎓 Eu sou estudante de Ciência da Computação na Instituição Newton Paiva.
 - 💻 Sou uma entusista da tecnologia e busco sempre estar praticando.
-- Nesse lugar você encontra uma estudante desbravando linguagens como : JavaScript e Java. :)
+- Nesse lugar você encontra uma estudante desbravando linguagens como : JavaScript, Java e Golang. :)
 - 💼 Eu trabalho atualmente como software engineering intern no banco Inter .
 - 💬 Me faça uma pergunta, vou adorar te responder!
 - Para me encontrar, esse é meu <a href="https://www.linkedin.com/in/ana-nogueira-847a711b5"> linkedIn </a>
