@@ -1,7 +1,7 @@
 
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Anaclsouza/Anaclsouza/blob/main/img/header.png"/>
+<img align="center" alt="Header" src="https://github.com/Anaclsouza/Anaclsouza/blob/main/img/github-header-image.png"/>
 </div>
 
 -----
@@ -52,7 +52,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/Anaclsouza/Anaclsouza/blob/main/img/6vIk.gif" width="340px" height="520px"/>
 </div>
 
 
