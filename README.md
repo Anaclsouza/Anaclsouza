@@ -15,11 +15,12 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e trabalho no banco Inter como Softw
 - 💬 Me faça uma pergunta, vou adorar te responder!
 
   <div>
-- 📖 Vamos nos conectar!
+   
+   ## Vamos nos conectar!
   
   <a href="https://www.linkedin.com/in/ana-nogueira-847a711b5" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  ##
+  
 
 
 ### Linguagens de programação/Ferramentas :
