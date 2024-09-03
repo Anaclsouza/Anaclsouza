@@ -13,7 +13,8 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e trabalho no banco Inter como Softw
 - 💻 Sou uma entusista da tecnologia e busco sempre estar praticando.
 - ♨️ Nesse lugar você encontra uma estudante desbravando linguagens como :  Java e Golang. :)
 - 💬 Me faça uma pergunta, vou adorar te responder!
-- 📖 Para me encontrar, esse é meu <a href="https://www.linkedin.com/in/ana-nogueira-847a711b5" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+- 📖 Vamos nos conectar!
+-  <a href="https://www.linkedin.com/in/ana-nogueira-847a711b5" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   ##
 
 
