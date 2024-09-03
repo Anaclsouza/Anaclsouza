@@ -32,8 +32,10 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e trabalho no banco Inter como Softw
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />      
-<img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
+           
+          
 </div>
 
  ##
