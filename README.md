@@ -11,9 +11,9 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e trabalho no banco Inter como Softw
 
 - 🎓 Eu sou estudante de Sistemas de Informação na Instituição Newton Paiva.
 - 💻 Sou uma entusista da tecnologia e busco sempre estar praticando.
-- Nesse lugar você encontra uma estudante desbravando linguagens como :  Java e Golang. :)
+- ♨️ Nesse lugar você encontra uma estudante desbravando linguagens como :  Java e Golang. :)
 - 💬 Me faça uma pergunta, vou adorar te responder!
-- Para me encontrar, esse é meu <a href="https://www.linkedin.com/in/ana-nogueira-847a711b5"> linkedIn </a>
+- 📖 Para me encontrar, esse é meu <a href="https://www.linkedin.com/in/ana-nogueira-847a711b5"> linkedIn </a>
   ##
 
 
@@ -31,7 +31,9 @@ Sou a Ana Clara, tenho 20 anos , moro em BH e trabalho no banco Inter como Softw
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />        
+<img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />      
+<img height=30 width = 40 align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 </div>
 
  ##
