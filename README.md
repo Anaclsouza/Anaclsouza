@@ -3,7 +3,7 @@
  
 
 ### Olá!👋,
-Sou a Ana Clara, tenho 21 anos , moro em BH e trabalho no banco Inter como Software Engineering Intern 👾. 
+Sou a Ana Clara, tenho 21 anos , moro em BH e trabalho no banco BV como desenvolvedora junior 👾. 
 ##
  
 ## Sobre mim :
